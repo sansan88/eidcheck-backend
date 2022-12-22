@@ -17,7 +17,7 @@
     "crypto": "^1.0.1",
     "firebase-admin": "^8.6.0",
     "firebase-functions": "^3.3.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "openid-client": "^2.5.0",
     "request": "^2.88.0",
     "ws": "^7.4.6"
